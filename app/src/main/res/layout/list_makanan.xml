@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:paddingTop="15dp">
+
+        <ImageView
+            android:id="@+id/imgListMakanan"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/sambal_uleg_dari_indonesia"
+            android:layout_marginLeft="15dp"/>
+
+        <TextView
+            android:id="@+id/txtListMakanan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sambal Uleg Dari Indonesia"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:layout_gravity="center"
+            android:paddingLeft="10dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

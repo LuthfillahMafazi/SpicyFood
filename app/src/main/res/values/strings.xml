@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Spicy Food</string>
+    <string-array name="DaftarMakanan">
+        <item>Sambal Uleg dari Indonesia</item>
+        <item>Lobak dengan Lada Sihcuan dari Cina</item>
+        <item>Kimchi dari Korea Selatan</item>
+        <item>Suicide Chicken dari Amerika Serikat</item>
+        <item>Vindaloo dari India</item>
+        <item>Shrimp Creole dari Amerika</item>
+        <item>Tom Yum dari Thailand</item>
+        <item>Red Dog Saloon Naga Viper Wings</item>
+        <item>Bengal Village Phaal Curry</item>
+    </string-array>
+
+    <string-array name="DetailMakananSpicy">
+        <item>Masakan khas Indonesia ini didaulat menjadi makanan terpedas di dunia. Sambal yang satu ini terbuat dari cabai rawit dan cabai merah yang cukup banyak. Cabai rawit indah malahan dikenal lebih pedas 10 kali lipat dibanding cabai Thai Bird’s Eyes. Para bule yang pernah mencicipi sambal ulek mengakui hidangan ini sebagai makanan terpedas yang pernah ada.
+
+</item>
+        <item>Masakan dari Cina yang satu ini juga terkenal akan rasa pedasnya. Masakan ini sudah pasti terbuat dari lobak yang dicampur lada sichuan. Makanan ini menggunakan cabai Bird’s Eye yang kekuatan pedasnya mampu membakar lidah. Tak hanya itu, lada sichuan dan potongan cabai pun menambah rasa pedasnya.
+
+</item>
+        <item>Makanan terkenal dari Korea ini memang cukup populer. Makanan ini terbuat dari acar kubis yang direndam dalam jahe, cabai, bawang putih, dan bawang merah selama satu bulan. Pedasnya tak hanya terasa di bagian luar, namun juga terasa hingga gigitan terakhir. Pedasnya betul-betul menyengat dan membakar lidah.
+
+</item>
+        <item>Namanya memang unik. Seolah-olah ayam yang digunakan sebagai bahannya bunuh diri karena mengonsumsi cabai. Padahal sesungguhnya, rasa pedas menyengat di makanan ini berasal dari perpaduan saus tabasco, potongan cabai kering, dan cabai segar cincang sebelum digoreng kering. Aromanya saja sudah mampu membuat hidung tertusuk.
+
+</item>
+        <item>India juga merupakan negara yang kaya akan makanan berempah. Tak salah masakan khas India, Vindaloo masuk ke daftar ini. Vindaloo terbuat dari rempah-rempah seperti adas, biji mostar, cabe kering, ketumbar, dan jahe. Sebelum dimasak, ayam direndam terlebih dahulu dengan bahan-bahan tersebut. Tak heran jika kemudian pedasnya terasa hingga ke tulang-tulang si ayam.
+
+</item>
+        <item>Masakan ini berasal dari Amerika Serikat bagian Selatan, dan merupakan comfort food buat yang menyenangi rongga mulut terasa terbakar. Bumbu dan bahan makanan ini sederhana, seperti cabe, tomat, udang dan ayam, dan rasa pedas makanan ini didapat dari cabe segar dan cayenne pepper.
+
+</item>
+        <item>Sup asam pedas dari Thailand ini memang sangat menggoda, aroma yang memikat dan menjanjikan pedas yang menyengat. Variasi dari Tom Yum ini banyak, antara lain adalah Tom Yum Gai (ayam) atau Tom Yum Pla (seafood). Dari tampilanya saja mungkin kita sudah akan dibuat merasa mau, karena makanan ini memiliki penampilan kuah yang merah dengan banyak sekali isian cabai yang mengambang diatasnya.
+
+</item>
+        <item>Sayap ayam pedas, dipasangkan dengan saus keju dan bir. Mereka sedikit kurang bagus ketika dilapisi dengan saus yang terbuat dari cabai viper naga, yang mana salah satu yang cabai terpedas di dunia.
+
+</item>
+        <item>Hampir seperti Vindaloo? kalian akan memasuki tantangan baru jika kalian mulai mencoba kari phaal Bengal Village. Terbuat secara Tradisional dari sejumlah cabai yang berbeda, kari phaal terasa seperti memakan pedas membakar, Bengal Village dijuluki kari terpedas di dunia.
+
+</item>
+    </string-array>
+</resources>
